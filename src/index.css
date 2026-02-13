@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  font-family: 'Courier New', 'Lucida Console', monospace;
+  background-image: url('/src/assets/hello-kitty.jpg');
+  /* smaller tile size for clearer pattern */
+  background-size: 500px auto;
+  background-repeat: repeat;
+  background-position: center;
+}
+
+#root {
+  min-height: 100vh;
+}
